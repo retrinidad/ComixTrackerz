@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836198677543",
+    "project_id": "comix-trackerz-38d13",
+    "storage_bucket": "comix-trackerz-38d13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836198677543:android:722932b6c8543ddcac2202",
+        "android_client_info": {
+          "package_name": "com.example.comix_trackerz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8DVO_e6fB8VobEoTqE9Z1_15g5cl9InM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
