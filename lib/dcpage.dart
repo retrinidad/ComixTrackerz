@@ -56,7 +56,7 @@ class _DCPageState extends State<DCPage> {
     Comic c35 = Comic("Titans","https://goldenapplecomics.com/cdn/shop/files/115971-hr.jpg?v=1713647860","13","07/17/2024","4");
     Comic c36 = Comic("Titans","https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2024/05/Titans-14-Meyer.jpg?resize=1011%2C1536&ssl=1","14","08/21/2024","4");
     Comic c37 = Comic("Wonder Woman","https://i.ebayimg.com/images/g/ncoAAOSwDyBmPaCG/s-l1200.webp","11","07/17/2024","6");
-    Comic c38 = Comic("Wonder Woman","https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2024/05/Wonder-Woman-12-Sampere.jpg?resize=1012%2C1536&ssl=1","12","08/121/2024","6");
+    Comic c38 = Comic("Wonder Woman","https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2024/05/Wonder-Woman-12-Sampere.jpg?resize=1012%2C1536&ssl=1","12","08/21/2024","6");
 
 
     comics = [c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20,c21,c22,c23,c24,c25,c26,c27,c28,c29,c30,c31,c32,c33,c34,c35,c36,c37,c38];

@@ -72,7 +72,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '836198677543',
     projectId: 'comix-trackerz-38d13',
     storageBucket: 'comix-trackerz-38d13.appspot.com',
-    iosBundleId: 'com.example.comixTrackerz',
+    iosBundleId: 'com.rafael.comixTrackerz',
     databaseURL: 'https://comix-trackerz-38d13-default-rtdb.firebaseio.com',
   );
 

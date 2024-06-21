@@ -47,7 +47,7 @@ class _MarvelPageState extends State<MarvelPage> {
     Comic c25 = Comic("Star Wars","https://cdn.marvel.com/u/prod/marvel/i/mg/3/c0/664ccf7709260/clean.jpg","49","08/21/2024","2");
     Comic c26 = Comic("Star Wars: Inquisitors","https://cdn.marvel.com/u/prod/marvel/i/mg/2/f0/66212b1062e9d/clean.jpg","1","07/03/2024","1");
     Comic c27 = Comic("Star Wars: Inquisitors","https://cdn.marvel.com/u/prod/marvel/i/mg/c/40/664ccf7aa09b3/clean.jpg","2","08/07/2024","1");
-    Comic c28 = Comic("The Immortal Thor","https://i.ebayimg.com/images/g/ncoAAOSwDyBmPaCG/s-l1200.webp","13","07/31/2024","1");
+    Comic c28 = Comic("The Immortal Thor","https://cdn.marvel.com/u/prod/marvel/i/mg/5/f0/66212be9a28b0/clean.jpg","13","07/31/2024","1");
     Comic c29 = Comic("The Immortal Thor","https://cdn.marvel.com/u/prod/marvel/i/mg/9/40/664ccf31c5b27/clean.jpg","14","08/14/2024","1");
     Comic c30 = Comic("Ultimate Black Panther","https://cdn.marvel.com/u/prod/marvel/i/mg/f/b0/66212b2c00486/clean.jpg","6","07/24/2024","1");
     Comic c31 = Comic("Ultimate Black Panther","https://cdn.marvel.com/u/prod/marvel/i/mg/f/b0/664ccf8dd93aa/clean.jpg","7","08/07/2024","1");
