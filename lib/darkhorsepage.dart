@@ -28,10 +28,10 @@ class _DarkHorsePageState extends State<DarkHorsePage> {
     Comic c7 = Comic("Kill All Immortals","https://i.ebayimg.com/images/g/oHkAAOSwQElmMvOg/s-l1600.webp","1","07/10/2024","1");
     Comic c8 = Comic("Monsters Are My Business","https://i.ebayimg.com/images/g/1MEAAOSwhMtmZKOk/s-l1600.webp","4","07/10/2024","1");
     Comic c9 = Comic("Saint John","https://i.ebayimg.com/images/g/KhMAAOSwud9l0OR~/s-l1600.webp","3","07/31/2024","1");
-    Comic c10 = Comic("The Witcher: Corvo Bianco", "https://www.previewsworld.com/SiteImage/MainImage/STL322131.jpg","3","07/17/2024","1");
+    Comic c10 = Comic("The Witcher: Corvo Bianco", "https://i.ebayimg.com/images/g/uJ0AAOSwd3lma0bv/s-l1600.webp","3","07/17/2024","1");
 
 
-    comics = [c1,c2,c3,c4,c5,c6,c7,c8,c9,c10];
+    comics = [c1,c3,c6,c7,c4,c8,c5,c9,c2,c10];
   }
 
   @override
